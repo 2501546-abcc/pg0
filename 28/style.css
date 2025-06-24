@@ -86,3 +86,7 @@ body{
 hr{
     border: 2px solid #000000;
 }
+
+.css-iframe{
+    border: none;
+}
