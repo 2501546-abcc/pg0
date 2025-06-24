@@ -1,0 +1,88 @@
+body{
+    margin: 0%;
+    overflow-x: hidden;
+}
+
+#css-nav{
+    background-color: #000000;
+    color: #fffef6;
+    padding: 10px;
+    width: 100%;
+}
+
+#css-nav ul{
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#css-nav a{
+    color: #fffef6;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#css-nav a:hover{
+    background-color: #c0c0c0;
+}
+
+.css-sidediv{
+    position: fixed;
+    left: 0%;
+    height: 92%;
+    width: 40%;
+    padding: 10px;
+    box-sizing: border-box;
+    background-image: url(image/frame.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.css-sidediv img{
+    height: 384px;
+    width: 300px;
+}
+
+.css-maindiv{
+    width: 60%;
+    margin-left: 40%;
+    padding-left: 30px;
+    box-sizing: border-box;
+}
+
+.css-h1{
+    text-align: center;
+}
+
+.css-div{
+    display: flex;
+    line-height: 20px;
+}
+
+.css-p{
+    font-size: 20px;
+}
+
+.css-groupdiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.css-groupimg{
+    height: 200px;
+    width: 200px;
+}
+
+.css-setimg{
+    height: 200px;
+    width: 300px;
+}
+
+hr{
+    border: 2px solid #000000;
+}
