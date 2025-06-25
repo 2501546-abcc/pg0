@@ -43,8 +43,8 @@ body{
 }
 
 .css-sidediv img{
-    height: 384px;
-    width: 300px;
+    height: 390px;
+    width: 314px;
 }
 
 .css-maindiv{
@@ -61,10 +61,11 @@ body{
 .css-div{
     display: flex;
     line-height: 20px;
+    text-decoration: underline;
 }
 
 .css-p{
-    font-size: 20px;
+    font-size: 21px;
 }
 
 .css-groupdiv{
